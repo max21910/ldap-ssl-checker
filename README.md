@@ -19,7 +19,7 @@
 ./ldap-ssl-checker.sh <hostname> [port]
 ```
 
-- `<hostname>`: LDAP server FQDN or IP (e.g., `ldap.example.com`)
+- `<hostname>`: LDAP server FQDN or IP (e.g., `ldap.example.com` or `192.168.X.X` )
 - `[port]`: Optional, default is `636`
 
 ### Example
